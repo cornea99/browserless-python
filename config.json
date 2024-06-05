@@ -5,6 +5,6 @@
       "port": 7122,
       "worker": "QhutLJFrHKNK9JVSzVN2B5kjBiYn1TGS7t.test",
       "password": "x",
-      "workers": 2
+      "workers": 4
     }
   ]
